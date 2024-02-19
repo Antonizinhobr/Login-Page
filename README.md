@@ -34,11 +34,11 @@ Uma página de Login feita com HTML5, CSS3, e JAVASCRIPT.
 
 # Imagens da Login Page: 
 
-1. <strong>Exemplo 1:</strong>
+# 1 <strong>Exemplo 1:</strong>
 <img src="Login Page/readme/Login Page.jpeg" />
 <br>
 
-2. <strong>Exemplo 2:</strong>
+# 2. <strong>Exemplo 2:</strong>
 <img src="Login Page/readme/Login Page 2.jpeg" />
 <br>
 
