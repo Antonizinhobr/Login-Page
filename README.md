@@ -13,19 +13,6 @@
 </div>
 
 
-
-# Como baixar esse repositório? :sassy_man:
-
-1. Baixando diretamente pelo github.
-
-    <img src="Email-Python/readme/Github Download Repo.png" />
-
-2.  Baixando pelo "gitclone" no seu prompt de comando. (Sintaxe: git clone "https://www.site.com")
-
-    <img src="Email-Python/readme/Git clone.png" />
-    
-<br>
-
 # Login Page. 
 
 Uma página de Login feita com HTML5, CSS3, e JAVASCRIPT. 
@@ -34,11 +21,11 @@ Uma página de Login feita com HTML5, CSS3, e JAVASCRIPT.
 
 # Imagens da Login Page: 
 
-# 1 <strong>Exemplo 1:</strong>
+# <strong>Exemplo 1:</strong>
 <img src="Login Page/readme/Login Page.jpeg" />
 <br>
 
-# 2. <strong>Exemplo 2:</strong>
+# <strong>Exemplo 2:</strong>
 <img src="Login Page/readme/Login Page 2.jpeg" />
 <br>
 
