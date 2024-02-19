@@ -34,12 +34,12 @@ Uma página de Login feita com HTML5, CSS3, e JAVASCRIPT.
 
 # Imagens da Login Page: 
 
-1. <strong>Segue imagem de exemplo de e-mail enviado para o operador, notificando-o da pendência de monitoria de assinatura na ferramenta de monitoria da empresa de telemarketing:</strong>
-<img src="/Email-Python/readme/operador.png" />
+1. <strong>Exemplo 1:</strong>
+<img src="Login Page/readme/Login Page.jpeg" />
 <br>
 
-2. <strong>Segue imagem de exemplo de e-mail enviado para o supervisor, notificando-o da pendência de monitoria de aplicação de feedback na ferramenta de monitoria da empresa de telemarketing:</strong>
-<img src="/Email-Python/readme/supervisor.png" />
+2. <strong>Exemplo 2:</strong>
+<img src="Login Page/readme/Login Page 2.jpeg" />
 <br>
 
 # Feito por Anthonny Michael ★
