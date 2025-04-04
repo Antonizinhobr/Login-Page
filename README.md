@@ -95,14 +95,8 @@ http://localhost:8000
 
 ---
 
-## 📄 Licença
-
-Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## 👨‍💻 Autor
 
-**Seu Nome**  
+**Anthonny Michael**  
 Desenvolvedor Front-End  
-[LinkedIn](https://linkedin.com/in/seu-perfil) • [Portfólio](https://seuportfolio.com)
+[LinkedIn](https://linkedin.com/in/anthonny-michael)
