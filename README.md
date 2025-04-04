@@ -6,7 +6,7 @@ Uma interface de login moderna e responsiva desenvolvida com **HTML5**, **CSS3**
 
 ## 📸 Preview
 
-![Login Preview](./assets/img/avatar.png)
+![Login Preview](./Login Page/readme/Login Page.jpeg)
 
 ---
 
