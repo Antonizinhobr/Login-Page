@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background: linear-gradient(170deg, rgba(49, 57, 73, 0.8) 20%, rgba(49, 57, 73, 0.5) 20%, rgba(49, 57, 73, 0.5) 35%, rgba(41, 48, 61, 0.6) 35%, rgba(41, 48, 61, 0.8) 45%, rgba(31, 36, 46, 0.5) 45%, rgba(31, 36, 46, 0.8) 75%, rgba(49, 57, 73, 0.5) 75%), linear-gradient(45deg, rgba(20, 24, 31, 0.8) 0%, rgba(41, 48, 61, 0.8) 50%, rgba(82, 95, 122, 0.8) 50%, rgba(133, 146, 173, 0.8) 100%) #313949;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.form {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.form-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-header img {
+    width: 200px;
+    display: flex;
+    padding: 20px;
+}
+
+.form-header h1::after {
+    position: absolute;
+    content: "";
+    width: 40%;
+    height: 4px;
+    background: rgb(166,25,150);
+    background: linear-gradient(90deg, rgba(166,25,150,1) 0%, rgba(155,16,167,1) 30%, rgba(221,76,188,1) 82%);    bottom:  5px;
+    left: 6px;
+}
+
+.inputs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.inputs label {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.input-field {
+    border-bottom: 2px solid black;
+    padding: 3px;
+    cursor: pointer;
+    position: relative;
+}
+
+.fa-eye {
+    position: absolute;
+    top: 5px;
+    right: 0;
+    cursor: pointer;
+}
+
+.fa-eye-slash {
+    position: absolute;
+    top: 5px;
+    right: -1px;
+    cursor: pointer;
+}
+
+.input-field input{
+    border: none;
+    background-color: transparent;
+    width: 300px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.input-field input:focus {
+    outline: none;
+}
+
+.inputcheck {
+    display: flex;
+    align-self: stretch;
+    gap: 10px;
+}
+
+.inputcheckbox input[type="checkbox"] {
+    cursor: pointer;
+}
+
+.input-field input[type="text"]{
+    font-size: 15px;
+    font-family: "Anta", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.button-form input {
+    width: 330px;
+    height: 50px;
+    background: rgb(166,25,150);
+    background: linear-gradient(90deg, rgba(166,25,150,1) 0%, rgba(155,16,167,1) 30%, rgba(221,76,188,1) 82%);
+    border: none;
+    cursor: pointer;
+    transition: all .2s;
+    color: white;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;   
+    border-radius: 5px;  
+}
+
+.button-form input:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.button-form input:active {
+    transform: translateY(-1px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.forgott-pass {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forgott-pass a {
+    text-decoration: none;
+    color: rgb(166,25,150);
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px; 
+}
+
+.inputcheckbox i {
+    cursor: pointer;
+}
